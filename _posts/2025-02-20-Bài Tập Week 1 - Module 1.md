@@ -32,8 +32,7 @@ xếp theo more - less việc kiểm soát các tài nguyên IT
 3. On-premises(private cloud)
 
 ## Similarities between AWS and traditional IT
-![Alt text](Past%20images/Pasted%20image%2020250225093050.png)
-
+![[Pasted image 20250225093050.png]]
 
 --- 
 # II. Advanteges of cloud computing
@@ -211,6 +210,3 @@ Các phiên bản Amazon EC2 có thể được khởi chạy theo yêu cầu kh
 D Customers can permanently run enough instances to handle peak workloads.
 Khách hàng có thể chạy đủ phiên bản để xử lý khối lượng công việc cao điểm.
 **The correct answer is:** C. Amazon EC2 instances can be launched on - demand when needed
-
-
-![[Pasted image 20250227075312.png]]
