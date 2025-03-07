@@ -1,4 +1,4 @@
-theme: jekyll-theme-chirpy
+remote_theme: pages-themes/midnight@v0.2.0
 title: My Blogs
 Author: Wall Liu
 encoding: UTF-8
