@@ -32,7 +32,8 @@ xếp theo more - less việc kiểm soát các tài nguyên IT
 3. On-premises(private cloud)
 
 ## Similarities between AWS and traditional IT
-![[Pasted image 20250225093050.png]]
+![Alt text](Past%20images/Pasted%20image%2020250225093050.png)
+
 
 --- 
 # II. Advanteges of cloud computing
