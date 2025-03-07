@@ -1,5 +1,5 @@
 ---
-title: "cloud"
+title: "Bài Tập Week 1 - Module 1"
 date: 2025-03-07
 ---
 
@@ -36,6 +36,8 @@ xếp theo more - less việc kiểm soát các tài nguyên IT
 <img src="Paste%20image/20250225093050.png" alt="Mô tả ảnh" width="600">
 
 <img src="../Paste%20image/20250225093050.png" alt="Hình ảnh minh họa" width="500">
+
+
 
 --- 
 # II. Advanteges of cloud computing
