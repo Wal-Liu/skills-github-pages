@@ -4,6 +4,7 @@ date: 2025-03-07
 ---
 
 ---
+
  # I. Introduction to cloud computing
 ## Traditional
 1. cơ sở hạ tầng phần cứng
